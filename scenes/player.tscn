@@ -1,5 +1,6 @@
 [gd_scene format=3 uid="uid://cl2qnidsijgph"]
 
+[ext_resource type="Script" uid="uid://b3puilapp3t1" path="res://scripts/player.gd" id="1_g2els"]
 [ext_resource type="Texture2D" uid="uid://cuhrg3ev1n2x2" path="res://assets/player/Kitsune/Idle.png" id="1_lj8jo"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_g2brh"]
@@ -62,12 +63,24 @@ animations = [{
 "texture": SubResource("AtlasTexture_cibgq")
 }],
 "loop": true,
-"name": &"default",
+"name": &"idle",
 "speed": 8.0
 }]
 
-[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1295681552]
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_lj8jo"]
+radius = 7.0
+height = 64.0
+
+[node name="Kitsune" type="CharacterBody2D" unique_id=1295681552]
+script = ExtResource("1_g2els")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=547947614]
+position = Vector2(2, -66)
 sprite_frames = SubResource("SpriteFrames_nckey")
-frame_progress = 0.28374982
+animation = &"idle"
+autoplay = "idle"
+frame_progress = 0.46981573
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1475365690]
+position = Vector2(1, -33)
+shape = SubResource("CapsuleShape2D_lj8jo")
