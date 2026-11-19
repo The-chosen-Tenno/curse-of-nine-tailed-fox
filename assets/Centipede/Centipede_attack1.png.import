@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bs5wthg66e6dh"
-path="res://.godot/imported/Idle.png-80053f36ed55811959cbc8c51d67455c.ctex"
+uid="uid://spt6l6gq1kic"
+path="res://.godot/imported/Centipede_attack1.png-3b6c36136551ef3492b10b6bad75dcf6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Yamabushi_tengu/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-80053f36ed55811959cbc8c51d67455c.ctex"]
+source_file="res://assets/Centipede/Centipede_attack1.png"
+dest_files=["res://.godot/imported/Centipede_attack1.png-3b6c36136551ef3492b10b6bad75dcf6.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://db6rdcjel38sw"
-path="res://.godot/imported/Idle_2.png-91503fa92c5ea2774905cf34dba6a2e8.ctex"
+uid="uid://bvwqmqwhsbhjn"
+path="res://.godot/imported/Centipede_idle.png-12a1b3af4d0ed1b1c52a6c9795d698f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Yamabushi_tengu/Idle_2.png"
-dest_files=["res://.godot/imported/Idle_2.png-91503fa92c5ea2774905cf34dba6a2e8.ctex"]
+source_file="res://assets/Centipede/Centipede_idle.png"
+dest_files=["res://.godot/imported/Centipede_idle.png-12a1b3af4d0ed1b1c52a6c9795d698f4.ctex"]
 
 [params]
 

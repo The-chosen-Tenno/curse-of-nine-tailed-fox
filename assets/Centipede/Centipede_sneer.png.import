@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://g1ggfga61xk7"
-path="res://.godot/imported/Jump.png-05a1df309fa65758bdd7b20712265dda.ctex"
+uid="uid://cd0djs3pa4e3n"
+path="res://.godot/imported/Centipede_sneer.png-2dedd7576ec7f598b353e6ff5e58cdfe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Yamabushi_tengu/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-05a1df309fa65758bdd7b20712265dda.ctex"]
+source_file="res://assets/Centipede/Centipede_sneer.png"
+dest_files=["res://.godot/imported/Centipede_sneer.png-2dedd7576ec7f598b353e6ff5e58cdfe.ctex"]
 
 [params]
 

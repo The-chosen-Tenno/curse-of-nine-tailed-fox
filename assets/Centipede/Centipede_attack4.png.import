@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxv5qkv0tt6nc"
-path="res://.godot/imported/Hurt.png-7ce75ba4fb52ff08f44be1c8f9808736.ctex"
+uid="uid://b46emy15qss4w"
+path="res://.godot/imported/Centipede_attack4.png-0069c4b43db83d0b73aec9531ebfafdd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Yamabushi_tengu/Hurt.png"
-dest_files=["res://.godot/imported/Hurt.png-7ce75ba4fb52ff08f44be1c8f9808736.ctex"]
+source_file="res://assets/Centipede/Centipede_attack4.png"
+dest_files=["res://.godot/imported/Centipede_attack4.png-0069c4b43db83d0b73aec9531ebfafdd.ctex"]
 
 [params]
 

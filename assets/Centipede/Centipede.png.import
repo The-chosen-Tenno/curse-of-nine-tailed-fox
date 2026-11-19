@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bv643g51xo6wy"
-path="res://.godot/imported/Walk.png-af84a1f16bb87a7ce42b24f839701f0a.ctex"
+uid="uid://fwcgye26m5av"
+path="res://.godot/imported/Centipede.png-0b3e5474dd91ad1f2d588b1f11be4b89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Yamabushi_tengu/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-af84a1f16bb87a7ce42b24f839701f0a.ctex"]
+source_file="res://assets/Centipede/Centipede.png"
+dest_files=["res://.godot/imported/Centipede.png-0b3e5474dd91ad1f2d588b1f11be4b89.ctex"]
 
 [params]
 

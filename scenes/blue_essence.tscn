@@ -57,7 +57,7 @@ animations = [{
 radius = 26.0
 height = 66.0
 
-[node name="Area2D" type="Area2D" unique_id=437232826]
+[node name="blue_essence" type="Area2D" unique_id=437232826]
 collision_mask = 2
 script = ExtResource("1_wol0o")
 
